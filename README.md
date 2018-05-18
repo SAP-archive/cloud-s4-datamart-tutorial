@@ -1,5 +1,9 @@
 # SAP S/4HANA & SAP Business Suite extension sample apps
-This repository contains sample SAPUI5 applications, which are used in tutorials on [developers.sap.com](https://developers.sap.com) (yet to be published).
+This repository contains sample SAPUI5 applications, which are used in two tutorial groups on [developers.sap.com](https://developers.sap.com):
+
+1.  [Create custom UI extension for Business Suite app on Cloud Platform](https://www.sap.com/developer/groups/cp-s4-ext-ui.html)
+2.  [Create SAP S/4HANA data mart on SAP Cloud Platform](https://www.sap.com/developer/groups/cp-s4-ext-datamart.html)
+
 
 ## Description: Data Mart Sample
 In some cases you might want to build a data mart for analyzing data in your SAP on-premises backend system.
