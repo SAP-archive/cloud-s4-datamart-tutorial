@@ -1,7 +1,7 @@
-# SAP S/4HANA & SAP Business Suite extension sample apps
-This repository contains sample SAPUI5 applications, which are used in two tutorial groups on [developers.sap.com](https://developers.sap.com):
+# SAP S/4HANA and SAP Business Suite Extension Sample Apps
+This repository contains sample SAPUI5 applications that are used in two tutorial groups on [developers.sap.com](https://developers.sap.com):
 
-1.  [Create custom UI extension for Business Suite app on Cloud Platform](https://www.sap.com/developer/groups/cp-s4-ext-ui.html)
+1.  [Create custom UI extension for Business Suite app on SAP Cloud Platform](https://www.sap.com/developer/groups/cp-s4-ext-ui.html)
 2.  [Create SAP S/4HANA data mart on SAP Cloud Platform](https://www.sap.com/developer/groups/cp-s4-ext-datamart.html)
 
 
