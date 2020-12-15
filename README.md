@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+This public repository is read-only and no longer maintained.
+
 # SAP S/4HANA and SAP Business Suite Extension Sample Apps
 This repository contains sample SAPUI5 applications that are used in two tutorial groups on [developers.sap.com](https://developers.sap.com):
 
